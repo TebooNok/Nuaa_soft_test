@@ -4,6 +4,7 @@ public class Main{
 
         System.out.println("Just a little change");
 
+        // According to review comments, add a notation
         System.out.println("More change from another account");
     }
 }
