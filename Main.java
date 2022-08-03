@@ -4,6 +4,6 @@ public class Main{
 
 
         // According to review comments, add a notation
-        exit();
+        System.exit();
     }
 }
